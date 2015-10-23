@@ -1,3 +1,6 @@
+git clone https://github.com/giftman/spf13-vim ~/.spf13-vim
+cd ~/.spf13-vim
+sh bootstrap.sh
 # spf13-vim : Steve Francia's Vim Distribution
 
                     __ _ _____              _
